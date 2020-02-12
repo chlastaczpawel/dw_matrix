@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 
-!git add 
-!git config -m
-!git commiu -u
+git add 
+git config -m
+git commiu -u
